@@ -1,2 +1,2 @@
-Git is version cintrol system.
+Git is distributed version cintrol system.
 Git is free sofeware.
